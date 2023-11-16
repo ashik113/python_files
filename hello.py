@@ -1,5 +1,5 @@
-print("Hello world")
-a = 10
+print("Hello Ashik")
+a = 40
 b = 20
 c = a + b
 print(c)
